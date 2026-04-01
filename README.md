@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head> 
+<meta charset="utf-8">
+<link rel="stylesheet" href="estilo.css">
+<title> Receita de Bolo de Chocolate </title>
+</head>
+
+  <body>
+    <div> 
+<h1>  Receita Bolo de Chocolate </h1>
+<h2> Receita Simples e prática do bolo mais querido dos brasileiros </h2>
+<img src="bolo-chocolate.jpg" alt="Bolo de Chocolate">
+<h3> Ingredientes </h3>
+<p>  Massa, 4 colheres (sopa) de chocolate em pó, 2 colheres (sopa) de manteiga, 3 xícaras (chá) de farinha de trigo,4 ovos, Massa, 2 colheres (sopa) de fermento, 1 xícara (chá) de leite e 3 colheres (sopa) de açúcar</p>
+<h3> Modo de Fazer </h3>
+<p> 1 - Bata por 5 minutos em um liquidificador os ovos, o chocolate em pó, a manteiga, a farinha de trigo, o açúcar e o leite </p>
+<p> 2 - Adicione o fermento e misture com uma espátula delicadamente.</p>
+<p> 3 - Em uma forma untada, despeje a massa e asse em forno médio (180 ºC) preaquecido por cerca de 40 minutos. Não se esqueça de usar uma forma alta para essa receita: como leva duas colheres de fermento, ela cresce bastante. </p>
+   </div>  
+</body>
+</html>
