@@ -3,7 +3,7 @@
     <head> 
 <meta charset="utf-8">
 <link rel="stylesheet" href="estilo.css">
-<title> Receita de Bolo de Chocolate </title>
+<tittle> Receita de Bolo de Chocolate </tittle>
 </head>
 
   <body>
